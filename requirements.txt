@@ -1,0 +1,7 @@
+aiogram>=3.0
+requests
+flask
+aiohttp
+psycopg2
+python-dotenv
+yt-dlp
